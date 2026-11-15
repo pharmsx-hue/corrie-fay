@@ -1,0 +1,61 @@
+{
+  "updated": "2026-11-15",
+  "note": "Gecontroleerde agenda-items; prijzen en beschikbaarheid niet bevestigd.",
+  "events": [
+    {
+      "id": "cinderella-2026",
+      "cat": "Dans",
+      "emoji": "🩰",
+      "title": "Cinderella — Het Nationale Ballet",
+      "where": "Nationale Opera & Ballet, Amsterdam",
+      "date": "9 dec 2026 – 2 jan 2027",
+      "desc": "Een grote balletproductie voor de feestdagen. Vooral interessant als jullie een avond klassiek ballet zoeken.",
+      "url": "https://www.operaballet.nl/balletvoorstellingen",
+      "source": "Nationale Opera & Ballet"
+    },
+    {
+      "id": "reflections-2026",
+      "cat": "Dans",
+      "emoji": "💃",
+      "title": "Reflections — Junior Company",
+      "where": "Tournee, diverse locaties",
+      "date": "11–21 nov 2026",
+      "desc": "Dans over reflectie op jezelf en de wereld. Controleer de tourneeplaatsen voor een voorstelling in de buurt.",
+      "url": "https://www.operaballet.nl/balletvoorstellingen",
+      "source": "Nationale Opera & Ballet"
+    },
+    {
+      "id": "messiah-2026",
+      "cat": "Klassiek",
+      "emoji": "🎻",
+      "title": "Händels Messiah — PRJCT Amsterdam",
+      "where": "Concertgebouw, Amsterdam",
+      "date": "1 dec 2026 · 19:30",
+      "desc": "Een avond met Händels Messiah, Maarten Engeltjes en het Vlaams Radiokoor.",
+      "url": "https://www.concertgebouw.nl/parool",
+      "source": "Concertgebouw"
+    },
+    {
+      "id": "sun-tzu-2026",
+      "cat": "Debat",
+      "emoji": "🎤",
+      "title": "China door de lens van Sun Tzu",
+      "where": "De Balie, Amsterdam",
+      "date": "30 nov 2026 · 20:00",
+      "desc": "Gesprek over geopolitiek en oorlogvoering met onder anderen Garrie van Pinxteren en Ben Knapen.",
+      "url": "https://debalie.nl/",
+      "source": "De Balie"
+    },
+    {
+      "id": "emoties-2026",
+      "cat": "Debat",
+      "emoji": "💬",
+      "title": "Jouw emoties zijn politiek",
+      "where": "De Balie, Amsterdam",
+      "date": "11 dec 2026 · 20:30",
+      "desc": "Een avond over emoties, politiek en identiteit.",
+      "url": "https://debalie.nl/",
+      "source": "De Balie"
+    }
+  ]
+}
